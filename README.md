@@ -14,9 +14,11 @@ This project delivers a comprehensive analysis of product sales, customer trends
 ---
 
 ## 🛠 Tools & Technologies
-- Tableau Public
+- Tableau, Tableau Prep
 - Excel (for data preparation)
 - SQL (for conceptual data modeling and querying)
+---
+🔗 Live Interactive Dashboard View the fully interactive Tableau dashboard here: https://public.tableau.com/views/BusinessInsightsDashboard_17139754899500/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
